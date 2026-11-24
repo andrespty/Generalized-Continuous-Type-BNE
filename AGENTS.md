@@ -12,4 +12,4 @@
 - Report exact command outputs; never claim a test passed without running it.
 
 # Research Workflow
-- Store experiment specs and derivations in `notes/` and outputs/metrics in `results/`.
+- Store experiment specs and derivations in `notes/` and runs/tables/figures in `outputs/`.
